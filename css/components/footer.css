@@ -1,0 +1,27 @@
+.footer{
+  background-color: rgb(230, 230, 230);
+  text-align: center;
+  text-decoration: none;
+  color: rgb(50, 50, 50)
+}
+
+#inline-list > li  {
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  padding: 16px;
+
+}
+
+#inline-list li a {
+  color: grey;
+}
+
+#inline-list {
+  padding-inline-start: 0px;
+}
+
+.footer p {
+  margin-bottom: 16px;
+  padding-bottom: 24px;
+}

@@ -1,0 +1,16 @@
+.button {
+  background-color: aliceblue;
+  padding: 8px 16px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.button:hover {
+  padding-right: 48px;
+  transition: 2s;
+}
+
+.banner a {
+  text-decoration: none;
+  color: grey;
+}
